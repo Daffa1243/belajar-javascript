@@ -1,0 +1,1 @@
+console.inf0(i);
