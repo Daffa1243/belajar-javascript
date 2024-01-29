@@ -8,3 +8,9 @@ if (x % 2 == 0) {
 } else {
     alert("data bukan angka");
 }
+
+if (confirm("apakah anda manusia?")){
+    location = "http://google.com";
+} else {
+    alert("anda akan di penjara");
+}
